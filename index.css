@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.buttons button{
+    background-color: black;
+    color: antiquewhite;
+    border: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 3px 6px ;
+    margin: 100px 50px;
+    transition: 0.5s;
+}
+.buttons button:hover{
+    background-color: rgb(180, 129, 129);
+
+}
+.buttons p{
+    font-size: 1rem;
+    max-width: 300px;
+
+}
